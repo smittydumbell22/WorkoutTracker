@@ -12,14 +12,13 @@ I wanted to teach myself how to make an app that would be useful.
 
 # Development Environment
 
-Android Studio 
-Kotlin
+* Android Studio 
+* Kotlin
 
 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Android Studio](https://developer.android.com/studio)
 * [Kotlin](https://kotlinlang.org/)
 
