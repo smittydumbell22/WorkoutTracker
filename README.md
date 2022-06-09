@@ -8,7 +8,7 @@ completed, and it also has the option for the user to delete any workouts they d
 I wanted to teach myself how to make an app that would be useful. 
 
 
-[Software Demo Video](https://studio.youtube.com/video/lhldqXlXk98/edit)
+[Software Demo Video](https://youtu.be/lhldqXlXk98)
 
 # Development Environment
 
